@@ -1,0 +1,19 @@
+body {
+  text-align: left;
+  color: rgb(7, 90, 51);
+  opacity: 1
+
+
+  
+}
+imagecontainer {
+  background-image: url("images/beans-black-coffee-caffeine-867470.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 1
+}
+
+h1 {
+  text-align: center
+}
+
